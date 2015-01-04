@@ -1,4 +1,4 @@
-webocular.github.io
-===================
+samherrmann.github.io
+=====================
 
-webocular website at webocular.com
+website at webocular.com
